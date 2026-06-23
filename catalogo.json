@@ -1,59 +1,73 @@
 {
- "series": [
-  {
-    "id": "s1",
-    "title": "Serie Ejemplo 1",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "ep": 1,
-            "title": "Episodio 1",
-            "embed": "https://streamtape.com/e/XXXX"
-          },
-          {
-            "ep": 2,
-            "title": "Episodio 2",
-            "embed": "https://streamtape.com/e/YYYY"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "s2",
-    "title": "Serie Ejemplo 2",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "ep": 1,
-            "title": "Episodio 1",
-            "embed": "https://streamtape.com/e/XXXX"
-          },
-          {
-            "ep": 2,
-            "title": "Episodio 2",
-            "embed": "https://streamtape.com/e/YYYY"
-          }
-        ]
-      }
-    ]
-  }
-],
+"series": [
+    {
+      "id": "s1",
+      "title": "Serie Ejemplo 1",
+      "tmdb_id": null,
+      "poster": null,
+      "backdrop": null,
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "ep": 1,
+              "title": "Episodio 1",
+              "embed": "https://streamtape.com/e/XXXX"
+            },
+            {
+              "ep": 2,
+              "title": "Episodio 2",
+              "embed": "https://streamtape.com/e/YYYY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Serie Ejemplo 2",
+      "tmdb_id": null,
+      "poster": null,
+      "backdrop": null,
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "ep": 1,
+              "title": "Episodio 1",
+              "embed": "https://streamtape.com/e/XXXX"
+            },
+            {
+              "ep": 2,
+              "title": "Episodio 2",
+              "embed": "https://streamtape.com/e/YYYY"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
   "movies": [
     {
       "id": "m1",
       "title": "Película Ejemplo",
+      "tmdb_id": null,
+      "poster": null,
+      "backdrop": null,
       "embed": "https://streamtape.com/e/ZZZZ"
     }
   ],
+
   "novelas": [
     {
       "id": "n1",
-      "title": "Novela Ejemplo",
+      "title": "La Mentira",
+      "tmdb_id": null,
+      "poster": null,
+      "backdrop": null,
       "episodes": [
         {
           "ep": 1,
@@ -68,6 +82,15 @@
       ]
     }
   ],
+
+  "tv": [
+    {
+      "id": "t1",
+      "title": "Canal 1",
+      "logo": null,
+      "embed": "https://streamtape.com/e/TV1"
+    }
+  ]
   "tv": [
  [
   {
