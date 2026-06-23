@@ -100,7 +100,47 @@
           "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
         }
       ]
+    },
+          {
+      "id": "n2",
+      "title": "Cielo Rojo",
+      "tmdb_id": "38174",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lS8GXHSAeiPQ5HeHoSPUqcdn9N4.jpg",
+      "backdrop": null,
+      "episodes": [
+        {
+          "ep": 1,
+          "title": "Capítulo 1",
+          "embed": "https://streamtape.com/e/Z1xKPyWy3rtqbOW/"
+        },
+        {
+          "ep": 2,
+          "title": "Capítulo 2",
+          "embed": "https://streamtape.com/e/88zdAYZogYs6wo/" 
+        },
+          {
+          "ep": 3,
+          "title": "Capítulo 3",
+          "embed": "https://streamtape.com/e/g0O1O3oP2dTq1J0/" 
+        },
+          {
+          "ep": 4,
+          "title": "Capítulo 4",
+          "embed": "https://streamtape.com/e/3woeGVoDdgTdQGp/"
+        },
+        {
+          "ep": 5,
+          "title": "Capítulo 5",
+          "embed": "https://streamtape.com/e/XYWP1rD1yqFDbdj/"
+        },
+          {
+          "ep": 6,
+          "title": "Capítulo 6",
+          "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
+        }
+      ]
     }
+      
   ],
   "tv": [
   {
