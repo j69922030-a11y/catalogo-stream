@@ -82,15 +82,6 @@
       ]
     }
   ],
-
-  "tv": [
-    {
-      "id": "t1",
-      "title": "Canal 1",
-      "logo": null,
-      "embed": "https://streamtape.com/e/TV1"
-    }
-  ]
   "tv": [
  [
   {
