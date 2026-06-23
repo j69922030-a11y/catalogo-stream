@@ -21,6 +21,27 @@
         }
       ]
     }
+        {
+      "id": "s2",
+      "title": "Serie Ejemplo 2",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "ep": 1,
+              "title": "Episodio 1",
+              "embed": "https://streamtape.com/e/XXXX"
+            },
+            {
+              "ep": 2,
+              "title": "Episodio 2",
+              "embed": "https://streamtape.com/e/YYYY"
+            }
+          ]
+        }
+      ]
+    }
   ],
   "movies": [
     {
