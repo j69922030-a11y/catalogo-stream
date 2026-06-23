@@ -48,30 +48,347 @@
     }
   ],
   "tv": [
-    {
-      "id": "t1",
-      "title": "TUDN",
-      "embed": "https://embed.saohgdasregions.fun/embed2/tudn.html"
-    },
-    {
-      "id": "t2",
-      "title": "ESPN 2",
-      "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
-    },
-    {
-      "id": "t3",
-      "title": "TYC SPORTS",
-      "embed": "https://embed.saohgdasregions.fun/embed2/tycsports.html"
-    },
-    {
-      "id": "t4",
-      "title": "TNT SPORTS",
-      "embed": "https://embed.saohgdasregions.fun/embed2/tntsports.html"
-    },
-    {
-      "id": "t5",
-      "title": "FOX SPORTS",
-      "embed": "https://embed.saohgdasregions.fun/embed2/foxsports.html"
-    }
+ [
+  {
+    "id": "t1",
+    "title": "TUDN",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tudn.html"
+  },
+  {
+    "id": "t2",
+    "title": "ESPN 2",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
+  },
+  {
+    "id": "t3",
+    "title": "TYC SPORTS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tycsports.html"
+  },
+  {
+    "id": "t4",
+    "title": "TNT SPORTS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tntsports.html"
+  },
+  {
+    "id": "t5",
+    "title": "FOX SPORTS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports.html"
+  },
+  {
+    "id": "t6",
+    "title": "FOX SPORTS 2",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2.html"
+  },
+  {
+    "id": "t7",
+    "title": "FOX SPORTS 3",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3.html"
+  },
+  {
+    "id": "t8",
+    "title": "FOX DEPORTES",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxdeportes.html"
+  },
+  {
+    "id": "t9",
+    "title": "ESPN LAT",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn.html"
+  },
+  {
+    "id": "t10",
+    "title": "ESPN 2",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
+  },
+  {
+    "id": "t11",
+    "title": "ESPN 3",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn3.html"
+  },
+  {
+    "id": "t12",
+    "title": "ESPN 4",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn4.html"
+  },
+  {
+    "id": "t13",
+    "title": "ESPN 5",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn5.html"
+  },
+  {
+    "id": "t14",
+    "title": "ESPN 6",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn6.html"
+  },
+  {
+    "id": "t15",
+    "title": "ESPN 7",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn7.html"
+  },
+  {
+    "id": "t16",
+    "title": "FOX SPORTS MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsportsmexico.html"
+  },
+  {
+    "id": "t17",
+    "title": "FOX SPORTS 2 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2mexico.html"
+  },
+  {
+    "id": "t18",
+    "title": "FOX SPORTS 3 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3mexico.html"
+  },
+  {
+    "id": "t19",
+    "title": "ESPN MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espnmexico.html"
+  },
+  {
+    "id": "t20",
+    "title": "ESPN 2 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn2mexico.html"
+  },
+  {
+    "id": "t21",
+    "title": "ESPN 3 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn3mexico.html"
+  },
+  {
+    "id": "t22",
+    "title": "ESPN 4 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn4mexico.html"
+  },
+  {
+    "id": "t23",
+    "title": "ESPN 5 MX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn5mexico.html"
+  },
+  {
+    "id": "t24",
+    "title": "AZTECA DEPORTES",
+    "embed": "https://embed.saohgdasregions.fun/embed2/aztecadeportes.html"
+  },
+  {
+    "id": "t25",
+    "title": "AZTECA 7",
+    "embed": "https://embed.saohgdasregions.fun/embed2/azteca7.html"
+  },
+  {
+    "id": "t26",
+    "title": "CANAL 5",
+    "embed": "https://embed.saohgdasregions.fun/embed2/canal5.html"
+  },
+  {
+    "id": "t27",
+    "title": "AMERICA TV",
+    "embed": "https://embed.saohgdasregions.fun/embed2/americatv.html"
+  },
+  {
+    "id": "t28",
+    "title": "SPACE",
+    "embed": "https://embed.saohgdasregions.fun/embed2/space.html"
+  },
+  {
+    "id": "t29",
+    "title": "WARNER BROS TV",
+    "embed": "https://embed.saohgdasregions.fun/embed2/warnerchannel.html"
+  },
+  {
+    "id": "t30",
+    "title": "TNT",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tnt.html"
+  },
+  {
+    "id": "t31",
+    "title": "STAR CHANNEL",
+    "embed": "https://embed.saohgdasregions.fun/embed2/starchannel.html"
+  },
+  {
+    "id": "t32",
+    "title": "CINEMAX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/cinemax.html"
+  },
+  {
+    "id": "t33",
+    "title": "CINECANAL",
+    "embed": "https://embed.saohgdasregions.fun/embed2/cinecanal.html"
+  },
+  {
+    "id": "t34",
+    "title": "EL TRECE",
+    "embed": "https://embed.saohgdasregions.fun/embed2/eltrece.html"
+  },
+  {
+    "id": "t35",
+    "title": "DISTRITO COMEDIA",
+    "embed": "https://embed.saohgdasregions.fun/embed2/distritocomedia.html"
+  },
+  {
+    "id": "t36",
+    "title": "TELEMUNDO MIAMI",
+    "embed": "https://embed.saohgdasregions.fun/embed2/telemundo51.html"
+  },
+  {
+    "id": "t37",
+    "title": "HISTORY",
+    "embed": "https://embed.saohgdasregions.fun/embed2/history.html"
+  },
+  {
+    "id": "t38",
+    "title": "HISTORY 2",
+    "embed": "https://embed.saohgdasregions.fun/embed2/history2.html"
+  },
+  {
+    "id": "t39",
+    "title": "AZTECA UNO",
+    "embed": "https://embed.saohgdasregions.fun/embed2/aztecauno.html"
+  },
+  {
+    "id": "t40",
+    "title": "TLNOVELAS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tlnovelas.html"
+  },
+  {
+    "id": "t41",
+    "title": "LAS ESTRELLAS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/lasestrellas.html"
+  },
+  {
+    "id": "t42",
+    "title": "UNIVISION",
+    "embed": "https://embed.saohgdasregions.fun/embed2/univision.html"
+  },
+  {
+    "id": "t43",
+    "title": "UNICABLE",
+    "embed": "https://embed.saohgdasregions.fun/embed2/unicable.html"
+  },
+  {
+    "id": "t44",
+    "title": "FX",
+    "embed": "https://embed.saohgdasregions.fun/embed2/fx.html"
+  },
+  {
+    "id": "t45",
+    "title": "GOLDEN PLUS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/goldenplus.html"
+  },
+  {
+    "id": "t46",
+    "title": "GOLDEN EDGE",
+    "embed": "https://embed.saohgdasregions.fun/embed2/goldenedge.html"
+  },
+  {
+    "id": "t47",
+    "title": "GOLDEN PREMIERE",
+    "embed": "https://embed.saohgdasregions.fun/embed2/goldenpremier.html"
+  },
+  {
+    "id": "t48",
+    "title": "TNT SERIES",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tntseries.html"
+  },
+  {
+    "id": "t49",
+    "title": "CANAL SONY",
+    "embed": "https://embed.saohgdasregions.fun/embed2/sony.html"
+  },
+  {
+    "id": "t50",
+    "title": "AXN",
+    "embed": "https://embed.saohgdasregions.fun/embed2/axn.html"
+  },
+  {
+    "id": "t51",
+    "title": "UNIVERSAL TV",
+    "embed": "https://embed.saohgdasregions.fun/embed2/universalchannel.html"
+  },
+  {
+    "id": "t52",
+    "title": "STUDIO UNIVERSAL",
+    "embed": "https://embed.saohgdasregions.fun/embed2/studiouniversal.html"
+  },
+  {
+    "id": "t53",
+    "title": "MULTIPREMIER",
+    "embed": "https://embed.saohgdasregions.fun/embed2/multipremier.html"
+  },
+  {
+    "id": "t54",
+    "title": "AMC",
+    "embed": "https://embed.saohgdasregions.fun/embed2/amc.html"
+  },
+  {
+    "id": "t55",
+    "title": "NAT GEO",
+    "embed": "https://embed.saohgdasregions.fun/embed2/natgeo.html"
+  },
+  {
+    "id": "t56",
+    "title": "ANIMAL PLANET",
+    "embed": "https://embed.saohgdasregions.fun/embed2/animalplanet.html"
+  },
+  {
+    "id": "t57",
+    "title": "DISCOVERY CHANNEL",
+    "embed": "https://embed.saohgdasregions.fun/embed2/discoverychannel.html"
+  },
+  {
+    "id": "t58",
+    "title": "DISCOVERY HYH",
+    "embed": "https://embed.saohgdasregions.fun/embed2/discoveryhyh.html"
+  },
+  {
+    "id": "t59",
+    "title": "ID INVESTIGATION",
+    "embed": "https://embed.saohgdasregions.fun/embed2/idinvestigation.html"
+  },
+  {
+    "id": "t60",
+    "title": "DISCOVERY A&E",
+    "embed": "https://embed.saohgdasregions.fun/embed2/discoveryaye.html"
+  },
+  {
+    "id": "t61",
+    "title": "RCN",
+    "embed": "https://embed.saohgdasregions.fun/embed2/rcn.html"
+  },
+  {
+    "id": "t62",
+    "title": "DISNEY CHANNEL",
+    "embed": "https://embed.saohgdasregions.fun/embed2/disneychannel.html"
+  },
+  {
+    "id": "t63",
+    "title": "TOONCAST",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tooncast.html"
+  },
+  {
+    "id": "t64",
+    "title": "TELEMUNDO PUERTO RICO",
+    "embed": "https://embed.saohgdasregions.fun/embed2/telemundopuertorico.html"
+  },
+  {
+    "id": "t66",
+    "title": "TNT NOVELAS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/tntnovelas.html"
+  },
+  {
+    "id": "t67",
+    "title": "CARTOON NETWORK",
+    "embed": "https://embed.saohgdasregions.fun/embed2/cartoonnetwork.html"
+  },
+  {
+    "id": "t68",
+    "title": "FM HOT KIDS",
+    "embed": "https://embed.saohgdasregions.fun/embed2/fmhotkids.html"
+  },
+  {
+    "id": "t69",
+    "title": "ANTENA 3",
+    "embed": "https://embed.saohgdasregions.fun/embed2/antena3.html"
+  }
+]
   ]
 }
