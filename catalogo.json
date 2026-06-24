@@ -1,539 +1,558 @@
 {
-"series": [
-    {
-      "id": "s1",
-      "title": "Serie Ejemplo 1",
-      "tmdb_id": null,
-      "poster": null,
-      "backdrop": null,
-      "seasons": [
+    "series": [
         {
-          "season": 1,
-          "episodes": [
-            {
-              "ep": 1,
-              "title": "Episodio 1",
-              "embed": "https://streamtape.com/e/XXXX"
-            },
-            {
-              "ep": 2,
-              "title": "Episodio 2",
-              "embed": "https://streamtape.com/e/YYYY"
-            }
-          ]
+            "id": "s1",
+            "title": "Máximo placer garantizado",
+            "tmdb_id": "285404",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/nzT8zBGRlusc3yVJnHDOJvWslPh.jpg",
+            "backdrop": null,
+            "seasons": [
+                {
+                    "season": 1,
+                    "episodes": [
+                        {
+                            "ep": 1,
+                            "title": "Episodio 1",
+                            "embed": "https://streamtape.com/e/2q2DL0KmlqIZ70r/"
+                        },
+                        {
+                            "ep": 2,
+                            "title": "Episodio 2",
+                            "embed": "https://streamtape.com/e/GGOMrxpzJ4cAr0/"
+                        },
+                             {
+                            "ep": 3,
+                            "title": "Episodio 3",
+                            "embed": "https://streamtape.com/e/zwG6weeqDMhY1Zm/"
+                        },
+                        {
+                            "ep": 4,
+                            "title": "Episodio 4",
+                            "embed": "https://streamtape.com/e/9lP3Ag7ZVzua2j8/"
+                        },
+                             {
+                            "ep": 5,
+                            "title": "Episodio 5",
+                            "embed": "https://streamtape.com/e/kkV0R728YosDmd/"
+                        },
+                        {
+                            "ep": 6,
+                            "title": "Episodio 6",
+                            "embed": "https://streamtape.com/e/qlrLGkj2RDtzr2y/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s2",
+            "title": "Serie Ejemplo 2",
+            "tmdb_id": null,
+            "poster": null,
+            "backdrop": null,
+            "seasons": [
+                {
+                    "season": 1,
+                    "episodes": [
+                        {
+                            "ep": 1,
+                            "title": "Episodio 1",
+                            "embed": "https://streamtape.com/e/XXXX"
+                        },
+                        {
+                            "ep": 2,
+                            "title": "Episodio 2",
+                            "embed": "https://streamtape.com/e/YYYY"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "s2",
-      "title": "Serie Ejemplo 2",
-      "tmdb_id": null,
-      "poster": null,
-      "backdrop": null,
-      "seasons": [
+    ],
+    "movies": [
         {
-          "season": 1,
-          "episodes": [
-            {
-              "ep": 1,
-              "title": "Episodio 1",
-              "embed": "https://streamtape.com/e/XXXX"
-            },
-            {
-              "ep": 2,
-              "title": "Episodio 2",
-              "embed": "https://streamtape.com/e/YYYY"
-            }
-          ]
+            "id": "m1",
+            "title": "Proyecto Fin del Mundo",
+            "tmdb_id": "687163",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
+            "backdrop": null,
+            "embed": "https://streamtape.com/e/yDL7rB13R1f1MKY/"
+        },
+        {
+            "id": "m2",
+            "title": "Avatar: Fuego y ceniza",
+            "tmdb_id": "83533",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
+            "backdrop": null,
+            "embed": "https://streamtape.com/e/3pJRMg8QydSdKJW/"
+        },
+        {
+            "id": "m3",
+            "title": "Hoppers: Operación castor",
+            "tmdb_id": "1327819",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg",
+            "backdrop": null,
+            "embed": "https://streamtape.com/e/W1xzwkRYpGSp28/"
         }
-      ]
-    }
-  ],
-
-  "movies": [
-    {
-      "id": "m1",
-      "title": "Proyecto Fin del Mundo",
-      "tmdb_id": "687163",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
-      "backdrop": null,
-      "embed": "https://streamtape.com/e/yDL7rB13R1f1MKY/"
-    },
-     {
-      "id": "m2",
-      "title": "Avatar: Fuego y ceniza",
-      "tmdb_id": "83533",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
-      "backdrop": null,
-      "embed": "https://streamtape.com/e/3pJRMg8QydSdKJW/"
-    },
-         {
-      "id": "m3",
-      "title": "Hoppers: Operación castor",
-      "tmdb_id": "1327819",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg",
-      "backdrop": null,
-      "embed": "https://streamtape.com/e/W1xzwkRYpGSp28/"
-    }
-  ],
-
-  "novelas": [
-    {
-      "id": "n1",
-      "title": "La Mentira",
-      "tmdb_id": "115316",
-      "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/osZrHFjblVSYL46wlObziLq1Zim.jpg",
-      "backdrop": null,
-      "episodes": [
+    ],
+    "novelas": [
         {
-          "ep": 1,
-          "title": "Capítulo 1",
-          "embed": "https://streamtape.com/e/zDxYgPGXDwsYOjw/"
-        },
-        {
-          "ep": 2,
-          "title": "Capítulo 2",
-          "embed": "https://streamtape.com/e/88zdAYZogYs6wo/" 
-        },
-          {
-          "ep": 3,
-          "title": "Capítulo 3",
-          "embed": "https://streamtape.com/e/g0O1O3oP2dTq1J0/" 
-        },
-          {
-          "ep": 4,
-          "title": "Capítulo 4",
-          "embed": "https://streamtape.com/e/3woeGVoDdgTdQGp/"
+            "id": "n1",
+            "title": "La Mentira",
+            "tmdb_id": "115316",
+            "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/osZrHFjblVSYL46wlObziLq1Zim.jpg",
+            "backdrop": null,
+            "episodes": [
+                {
+                    "ep": 1,
+                    "title": "Capítulo 1",
+                    "embed": "https://streamtape.com/e/zDxYgPGXDwsYOjw/"
+                },
+                {
+                    "ep": 2,
+                    "title": "Capítulo 2",
+                    "embed": "https://streamtape.com/e/88zdAYZogYs6wo/"
+                },
+                {
+                    "ep": 3,
+                    "title": "Capítulo 3",
+                    "embed": "https://streamtape.com/e/g0O1O3oP2dTq1J0/"
+                },
+                {
+                    "ep": 4,
+                    "title": "Capítulo 4",
+                    "embed": "https://streamtape.com/e/3woeGVoDdgTdQGp/"
+                },
+                {
+                    "ep": 5,
+                    "title": "Capítulo 5",
+                    "embed": "https://streamtape.com/e/XYWP1rD1yqFDbdj/"
+                },
+                {
+                    "ep": 6,
+                    "title": "Capítulo 6",
+                    "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
+                },
+                {
+                    "ep": 7,
+                    "title": "Capítulo 7",
+                    "embed": "https://streamtape.com/e/AwVg8BpzD2TXp4o/"
+                },
+                {
+                    "ep": 8,
+                    "title": "Capítulo 8",
+                    "embed": "https://streamtape.com/e/OYwWR2m2G7U7Pa/"
+                }
+            ]
         },
         {
-          "ep": 5,
-          "title": "Capítulo 5",
-          "embed": "https://streamtape.com/e/XYWP1rD1yqFDbdj/"
-        },
-          {
-          "ep": 6,
-          "title": "Capítulo 6",
-          "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
-        },
-              {
-          "ep": 7,
-          "title": "Capítulo 7",
-          "embed": "https://streamtape.com/e/AwVg8BpzD2TXp4o/"
-        },
-              {
-          "ep": 8,
-          "title": "Capítulo 8",
-          "embed": "https://streamtape.com/e/OYwWR2m2G7U7Pa/"
+            "id": "n2",
+            "title": "Cielo Rojo",
+            "tmdb_id": "38174",
+            "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lS8GXHSAeiPQ5HeHoSPUqcdn9N4.jpg",
+            "backdrop": null,
+            "episodes": [
+                {
+                    "ep": 1,
+                    "title": "Capítulo 1",
+                    "embed": "https://streamtape.com/e/Z1xKPyWy3rtqbOW/"
+                },
+                {
+                    "ep": 2,
+                    "title": "Capítulo 2",
+                    "embed": "https://streamtape.com/e/vla8kARvL8I4e9g/"
+                },
+                {
+                    "ep": 3,
+                    "title": "Capítulo 3",
+                    "embed": "https://streamtape.com/e/LaD2WplZlRHyR1/"
+                },
+                {
+                    "ep": 4,
+                    "title": "Capítulo 4",
+                    "embed": "https://streamtape.com/e/Bb1LKd06DxSyazW/"
+                },
+                {
+                    "ep": 5,
+                    "title": "Capítulo 5",
+                    "embed": "https://streamtape.com/e/Xba14g8ZLgTDlY4/"
+                },
+                {
+                    "ep": 6,
+                    "title": "Capítulo 6",
+                    "embed": "https://streamtape.com/e/AMo7K76jWbFXAOk/"
+                },
+                {
+                    "ep": 7,
+                    "title": "Capítulo 7",
+                    "embed": "https://streamtape.com/e/qake7alzywsz321/"
+                },
+                {
+                    "ep": 8,
+                    "title": "Capítulo 8",
+                    "embed": "https://streamtape.com/e/DqYxJ3JbBZHkMgy/"
+                },
+                {
+                    "ep": 9,
+                    "title": "Capítulo 9",
+                    "embed": "https://streamtape.com/e/D01wgeXO2KTky36/"
+                },
+                {
+                    "ep": 10,
+                    "title": "Capítulo 10",
+                    "embed": "https://streamtape.com/e/rApKxYGMYDtb6be/"
+                }
+            ]
         }
-      ]
-    },
-          {
-      "id": "n2",
-      "title": "Cielo Rojo",
-      "tmdb_id": "38174",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/lS8GXHSAeiPQ5HeHoSPUqcdn9N4.jpg",
-      "backdrop": null,
-      "episodes": [
+    ],
+    "tv": [
         {
-          "ep": 1,
-          "title": "Capítulo 1",
-          "embed": "https://streamtape.com/e/Z1xKPyWy3rtqbOW/"
+            "id": "t1",
+            "title": "TUDN",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tudn.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKkmoVy_db_vYmUrzgIpSdrZKat4pWLPepwJjCQfMwg&s=10"
         },
         {
-          "ep": 2,
-          "title": "Capítulo 2",
-          "embed": "https://streamtape.com/e/vla8kARvL8I4e9g/"
-        },
-          {
-          "ep": 3,
-          "title": "Capítulo 3",
-          "embed": "https://streamtape.com/e/LaD2WplZlRHyR1/" 
-        },
-          {
-          "ep": 4,
-          "title": "Capítulo 4",
-          "embed": "https://streamtape.com/e/Bb1LKd06DxSyazW/"
+            "id": "t2",
+            "title": "ESPN 2",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_bO1h4930LY8Dn0v_IBVHRbvawC6e4iVGAiWd6EaFw&s=10"
         },
         {
-          "ep": 5,
-          "title": "Capítulo 5",
-          "embed": "https://streamtape.com/e/Xba14g8ZLgTDlY4/"
+            "id": "t3",
+            "title": "TYC SPORTS",
+            "embed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRCrlR7LXAgRSvAvDj5JYJwURwEsL7vFyJB6n_5QsLP-kg6ByCo84LQ&s",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb5uOCRarrJk5xeAsztpWN56dVrB-pmADa8bMbRhRBVg&s=10"
         },
-          {
-          "ep": 6,
-          "title": "Capítulo 6",
-          "embed": "https://streamtape.com/e/AMo7K76jWbFXAOk/" 
+        {
+            "id": "t4",
+            "title": "TNT SPORTS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tntsports.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNPE0oXxxleVRpuKgUQSm8w-AcT9wPqWF82HGOkug3vg&s=10"
         },
-             {
-          "ep": 7,
-          "title": "Capítulo 7",
-          "embed": "https://streamtape.com/e/qake7alzywsz321/" 
+        {
+            "id": "t5",
+            "title": "FOX SPORTS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsports.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5Wr-pEcJ4HZ54VL9Ch5LTahYvZtDV48lASwcRo-EAg&s=10"
         },
-                     {
-          "ep": 8,
-          "title": "Capítulo 8",
-          "embed": "https://streamtape.com/e/DqYxJ3JbBZHkMgy/"
+        {
+            "id": "t6",
+            "title": "FOX SPORTS 2",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzMJ8B_3ssSiCov-w9L6OhkdDYI0uLhqhkjiv52j8lA&s"
         },
-                     {
-          "ep": 9,
-          "title": "Capítulo 9",
-          "embed": "https://streamtape.com/e/D01wgeXO2KTky36/" 
+        {
+            "id": "t7",
+            "title": "FOX SPORTS 3",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8JpMJ20Wd52jRR8xIuL-aIlWihctLwId7ECP-jSs&s=10"
         },
-                     {
-          "ep": 10,
-          "title": "Capítulo 10",
-          "embed": "https://streamtape.com/e/rApKxYGMYDtb6be/" 
+        {
+            "id": "t8",
+            "title": "FOX DEPORTES",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxdeportes.html",
+            "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM5Wr-pEcJ4HZ54VL9Ch5LTahYvZtDV48lASwcRo-EAg&s=10"
+        },
+        {
+            "id": "t9",
+            "title": "ESPN LAT",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn.html"
+        },
+        {
+            "id": "t10",
+            "title": "ESPN 2",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
+        },
+        {
+            "id": "t11",
+            "title": "ESPN 3",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn3.html"
+        },
+        {
+            "id": "t12",
+            "title": "ESPN 4",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn4.html"
+        },
+        {
+            "id": "t13",
+            "title": "ESPN 5",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn5.html"
+        },
+        {
+            "id": "t14",
+            "title": "ESPN 6",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn6.html"
+        },
+        {
+            "id": "t15",
+            "title": "ESPN 7",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn7.html"
+        },
+        {
+            "id": "t16",
+            "title": "FOX SPORTS MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsportsmexico.html"
+        },
+        {
+            "id": "t17",
+            "title": "FOX SPORTS 2 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2mexico.html"
+        },
+        {
+            "id": "t18",
+            "title": "FOX SPORTS 3 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3mexico.html"
+        },
+        {
+            "id": "t19",
+            "title": "ESPN MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espnmexico.html"
+        },
+        {
+            "id": "t20",
+            "title": "ESPN 2 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn2mexico.html"
+        },
+        {
+            "id": "t21",
+            "title": "ESPN 3 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn3mexico.html"
+        },
+        {
+            "id": "t22",
+            "title": "ESPN 4 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn4mexico.html"
+        },
+        {
+            "id": "t23",
+            "title": "ESPN 5 MX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/espn5mexico.html"
+        },
+        {
+            "id": "t24",
+            "title": "AZTECA DEPORTES",
+            "embed": "https://embed.saohgdasregions.fun/embed2/aztecadeportes.html"
+        },
+        {
+            "id": "t25",
+            "title": "AZTECA 7",
+            "embed": "https://embed.saohgdasregions.fun/embed2/azteca7.html"
+        },
+        {
+            "id": "t26",
+            "title": "CANAL 5",
+            "embed": "https://embed.saohgdasregions.fun/embed2/canal5.html"
+        },
+        {
+            "id": "t27",
+            "title": "AMERICA TV",
+            "embed": "https://embed.saohgdasregions.fun/embed2/americatv.html"
+        },
+        {
+            "id": "t28",
+            "title": "SPACE",
+            "embed": "https://embed.saohgdasregions.fun/embed2/space.html"
+        },
+        {
+            "id": "t29",
+            "title": "WARNER BROS TV",
+            "embed": "https://embed.saohgdasregions.fun/embed2/warnerchannel.html"
+        },
+        {
+            "id": "t30",
+            "title": "TNT",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tnt.html"
+        },
+        {
+            "id": "t31",
+            "title": "STAR CHANNEL",
+            "embed": "https://embed.saohgdasregions.fun/embed2/starchannel.html"
+        },
+        {
+            "id": "t32",
+            "title": "CINEMAX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/cinemax.html"
+        },
+        {
+            "id": "t33",
+            "title": "CINECANAL",
+            "embed": "https://embed.saohgdasregions.fun/embed2/cinecanal.html"
+        },
+        {
+            "id": "t34",
+            "title": "EL TRECE",
+            "embed": "https://embed.saohgdasregions.fun/embed2/eltrece.html"
+        },
+        {
+            "id": "t35",
+            "title": "DISTRITO COMEDIA",
+            "embed": "https://embed.saohgdasregions.fun/embed2/distritocomedia.html"
+        },
+        {
+            "id": "t36",
+            "title": "TELEMUNDO MIAMI",
+            "embed": "https://embed.saohgdasregions.fun/embed2/telemundo51.html"
+        },
+        {
+            "id": "t37",
+            "title": "HISTORY",
+            "embed": "https://embed.saohgdasregions.fun/embed2/history.html"
+        },
+        {
+            "id": "t38",
+            "title": "HISTORY 2",
+            "embed": "https://embed.saohgdasregions.fun/embed2/history2.html"
+        },
+        {
+            "id": "t39",
+            "title": "AZTECA UNO",
+            "embed": "https://embed.saohgdasregions.fun/embed2/aztecauno.html"
+        },
+        {
+            "id": "t40",
+            "title": "TLNOVELAS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tlnovelas.html"
+        },
+        {
+            "id": "t41",
+            "title": "LAS ESTRELLAS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/lasestrellas.html"
+        },
+        {
+            "id": "t42",
+            "title": "UNIVISION",
+            "embed": "https://embed.saohgdasregions.fun/embed2/univision.html"
+        },
+        {
+            "id": "t43",
+            "title": "UNICABLE",
+            "embed": "https://embed.saohgdasregions.fun/embed2/unicable.html"
+        },
+        {
+            "id": "t44",
+            "title": "FX",
+            "embed": "https://embed.saohgdasregions.fun/embed2/fx.html"
+        },
+        {
+            "id": "t45",
+            "title": "GOLDEN PLUS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/goldenplus.html"
+        },
+        {
+            "id": "t46",
+            "title": "GOLDEN EDGE",
+            "embed": "https://embed.saohgdasregions.fun/embed2/goldenedge.html"
+        },
+        {
+            "id": "t47",
+            "title": "GOLDEN PREMIERE",
+            "embed": "https://embed.saohgdasregions.fun/embed2/goldenpremier.html"
+        },
+        {
+            "id": "t48",
+            "title": "TNT SERIES",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tntseries.html"
+        },
+        {
+            "id": "t49",
+            "title": "CANAL SONY",
+            "embed": "https://embed.saohgdasregions.fun/embed2/sony.html"
+        },
+        {
+            "id": "t50",
+            "title": "AXN",
+            "embed": "https://embed.saohgdasregions.fun/embed2/axn.html"
+        },
+        {
+            "id": "t51",
+            "title": "UNIVERSAL TV",
+            "embed": "https://embed.saohgdasregions.fun/embed2/universalchannel.html"
+        },
+        {
+            "id": "t52",
+            "title": "STUDIO UNIVERSAL",
+            "embed": "https://embed.saohgdasregions.fun/embed2/studiouniversal.html"
+        },
+        {
+            "id": "t53",
+            "title": "MULTIPREMIER",
+            "embed": "https://embed.saohgdasregions.fun/embed2/multipremier.html"
+        },
+        {
+            "id": "t54",
+            "title": "AMC",
+            "embed": "https://embed.saohgdasregions.fun/embed2/amc.html"
+        },
+        {
+            "id": "t55",
+            "title": "NAT GEO",
+            "embed": "https://embed.saohgdasregions.fun/embed2/natgeo.html"
+        },
+        {
+            "id": "t56",
+            "title": "ANIMAL PLANET",
+            "embed": "https://embed.saohgdasregions.fun/embed2/animalplanet.html"
+        },
+        {
+            "id": "t57",
+            "title": "DISCOVERY CHANNEL",
+            "embed": "https://embed.saohgdasregions.fun/embed2/discoverychannel.html"
+        },
+        {
+            "id": "t58",
+            "title": "DISCOVERY HYH",
+            "embed": "https://embed.saohgdasregions.fun/embed2/discoveryhyh.html"
+        },
+        {
+            "id": "t59",
+            "title": "ID INVESTIGATION",
+            "embed": "https://embed.saohgdasregions.fun/embed2/idinvestigation.html"
+        },
+        {
+            "id": "t60",
+            "title": "DISCOVERY A&E",
+            "embed": "https://embed.saohgdasregions.fun/embed2/discoveryaye.html"
+        },
+        {
+            "id": "t61",
+            "title": "RCN",
+            "embed": "https://embed.saohgdasregions.fun/embed2/rcn.html"
+        },
+        {
+            "id": "t62",
+            "title": "DISNEY CHANNEL",
+            "embed": "https://embed.saohgdasregions.fun/embed2/disneychannel.html"
+        },
+        {
+            "id": "t63",
+            "title": "TOONCAST",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tooncast.html"
+        },
+        {
+            "id": "t64",
+            "title": "TELEMUNDO PUERTO RICO",
+            "embed": "https://embed.saohgdasregions.fun/embed2/telemundopuertorico.html"
+        },
+        {
+            "id": "t66",
+            "title": "TNT NOVELAS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/tntnovelas.html"
+        },
+        {
+            "id": "t67",
+            "title": "CARTOON NETWORK",
+            "embed": "https://embed.saohgdasregions.fun/embed2/cartoonnetwork.html"
+        },
+        {
+            "id": "t68",
+            "title": "FM HOT KIDS",
+            "embed": "https://embed.saohgdasregions.fun/embed2/fmhotkids.html"
+        },
+        {
+            "id": "t69",
+            "title": "ANTENA 3",
+            "embed": "https://embed.saohgdasregions.fun/embed2/antena3.html"
         }
-      ]
-    }
-      
-  ],
-
-
-
-  "tv": [
-{
-  "id": "t1",
-  "title": "TUDN",
-  "embed": "https://embed.saohgdasregions.fun/embed2/tudn.html",
-  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKkmoVy_db_vYmUrzgIpSdrZKat4pWLPepwJjCQfMwg&s=10"
-},
-  {
-    "id": "t2",
-    "title": "ESPN 2",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_bO1h4930LY8Dn0v_IBVHRbvawC6e4iVGAiWd6EaFw&s=10"
-  },
-  {
-    "id": "t3",
-    "title": "TYC SPORTS",
-    "embed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRCrlR7LXAgRSvAvDj5JYJwURwEsL7vFyJB6n_5QsLP-kg6ByCo84LQ&s"
-  },
-  {
-    "id": "t4",
-    "title": "TNT SPORTS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tntsports.html"
-  },
-  {
-    "id": "t5",
-    "title": "FOX SPORTS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports.html"
-  },
-  {
-    "id": "t6",
-    "title": "FOX SPORTS 2",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2.html"
-  },
-  {
-    "id": "t7",
-    "title": "FOX SPORTS 3",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3.html"
-  },
-  {
-    "id": "t8",
-    "title": "FOX DEPORTES",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxdeportes.html"
-  },
-  {
-    "id": "t9",
-    "title": "ESPN LAT",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn.html"
-  },
-  {
-    "id": "t10",
-    "title": "ESPN 2",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
-  },
-  {
-    "id": "t11",
-    "title": "ESPN 3",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn3.html"
-  },
-  {
-    "id": "t12",
-    "title": "ESPN 4",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn4.html"
-  },
-  {
-    "id": "t13",
-    "title": "ESPN 5",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn5.html"
-  },
-  {
-    "id": "t14",
-    "title": "ESPN 6",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn6.html"
-  },
-  {
-    "id": "t15",
-    "title": "ESPN 7",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn7.html"
-  },
-  {
-    "id": "t16",
-    "title": "FOX SPORTS MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsportsmexico.html"
-  },
-  {
-    "id": "t17",
-    "title": "FOX SPORTS 2 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports2mexico.html"
-  },
-  {
-    "id": "t18",
-    "title": "FOX SPORTS 3 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/foxsports3mexico.html"
-  },
-  {
-    "id": "t19",
-    "title": "ESPN MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espnmexico.html"
-  },
-  {
-    "id": "t20",
-    "title": "ESPN 2 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn2mexico.html"
-  },
-  {
-    "id": "t21",
-    "title": "ESPN 3 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn3mexico.html"
-  },
-  {
-    "id": "t22",
-    "title": "ESPN 4 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn4mexico.html"
-  },
-  {
-    "id": "t23",
-    "title": "ESPN 5 MX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn5mexico.html"
-  },
-  {
-    "id": "t24",
-    "title": "AZTECA DEPORTES",
-    "embed": "https://embed.saohgdasregions.fun/embed2/aztecadeportes.html"
-  },
-  {
-    "id": "t25",
-    "title": "AZTECA 7",
-    "embed": "https://embed.saohgdasregions.fun/embed2/azteca7.html"
-  },
-  {
-    "id": "t26",
-    "title": "CANAL 5",
-    "embed": "https://embed.saohgdasregions.fun/embed2/canal5.html"
-  },
-  {
-    "id": "t27",
-    "title": "AMERICA TV",
-    "embed": "https://embed.saohgdasregions.fun/embed2/americatv.html"
-  },
-  {
-    "id": "t28",
-    "title": "SPACE",
-    "embed": "https://embed.saohgdasregions.fun/embed2/space.html"
-  },
-  {
-    "id": "t29",
-    "title": "WARNER BROS TV",
-    "embed": "https://embed.saohgdasregions.fun/embed2/warnerchannel.html"
-  },
-  {
-    "id": "t30",
-    "title": "TNT",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tnt.html"
-  },
-  {
-    "id": "t31",
-    "title": "STAR CHANNEL",
-    "embed": "https://embed.saohgdasregions.fun/embed2/starchannel.html"
-  },
-  {
-    "id": "t32",
-    "title": "CINEMAX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/cinemax.html"
-  },
-  {
-    "id": "t33",
-    "title": "CINECANAL",
-    "embed": "https://embed.saohgdasregions.fun/embed2/cinecanal.html"
-  },
-  {
-    "id": "t34",
-    "title": "EL TRECE",
-    "embed": "https://embed.saohgdasregions.fun/embed2/eltrece.html"
-  },
-  {
-    "id": "t35",
-    "title": "DISTRITO COMEDIA",
-    "embed": "https://embed.saohgdasregions.fun/embed2/distritocomedia.html"
-  },
-  {
-    "id": "t36",
-    "title": "TELEMUNDO MIAMI",
-    "embed": "https://embed.saohgdasregions.fun/embed2/telemundo51.html"
-  },
-  {
-    "id": "t37",
-    "title": "HISTORY",
-    "embed": "https://embed.saohgdasregions.fun/embed2/history.html"
-  },
-  {
-    "id": "t38",
-    "title": "HISTORY 2",
-    "embed": "https://embed.saohgdasregions.fun/embed2/history2.html"
-  },
-  {
-    "id": "t39",
-    "title": "AZTECA UNO",
-    "embed": "https://embed.saohgdasregions.fun/embed2/aztecauno.html"
-  },
-  {
-    "id": "t40",
-    "title": "TLNOVELAS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tlnovelas.html"
-  },
-  {
-    "id": "t41",
-    "title": "LAS ESTRELLAS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/lasestrellas.html"
-  },
-  {
-    "id": "t42",
-    "title": "UNIVISION",
-    "embed": "https://embed.saohgdasregions.fun/embed2/univision.html"
-  },
-  {
-    "id": "t43",
-    "title": "UNICABLE",
-    "embed": "https://embed.saohgdasregions.fun/embed2/unicable.html"
-  },
-  {
-    "id": "t44",
-    "title": "FX",
-    "embed": "https://embed.saohgdasregions.fun/embed2/fx.html"
-  },
-  {
-    "id": "t45",
-    "title": "GOLDEN PLUS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/goldenplus.html"
-  },
-  {
-    "id": "t46",
-    "title": "GOLDEN EDGE",
-    "embed": "https://embed.saohgdasregions.fun/embed2/goldenedge.html"
-  },
-  {
-    "id": "t47",
-    "title": "GOLDEN PREMIERE",
-    "embed": "https://embed.saohgdasregions.fun/embed2/goldenpremier.html"
-  },
-  {
-    "id": "t48",
-    "title": "TNT SERIES",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tntseries.html"
-  },
-  {
-    "id": "t49",
-    "title": "CANAL SONY",
-    "embed": "https://embed.saohgdasregions.fun/embed2/sony.html"
-  },
-  {
-    "id": "t50",
-    "title": "AXN",
-    "embed": "https://embed.saohgdasregions.fun/embed2/axn.html"
-  },
-  {
-    "id": "t51",
-    "title": "UNIVERSAL TV",
-    "embed": "https://embed.saohgdasregions.fun/embed2/universalchannel.html"
-  },
-  {
-    "id": "t52",
-    "title": "STUDIO UNIVERSAL",
-    "embed": "https://embed.saohgdasregions.fun/embed2/studiouniversal.html"
-  },
-  {
-    "id": "t53",
-    "title": "MULTIPREMIER",
-    "embed": "https://embed.saohgdasregions.fun/embed2/multipremier.html"
-  },
-  {
-    "id": "t54",
-    "title": "AMC",
-    "embed": "https://embed.saohgdasregions.fun/embed2/amc.html"
-  },
-  {
-    "id": "t55",
-    "title": "NAT GEO",
-    "embed": "https://embed.saohgdasregions.fun/embed2/natgeo.html"
-  },
-  {
-    "id": "t56",
-    "title": "ANIMAL PLANET",
-    "embed": "https://embed.saohgdasregions.fun/embed2/animalplanet.html"
-  },
-  {
-    "id": "t57",
-    "title": "DISCOVERY CHANNEL",
-    "embed": "https://embed.saohgdasregions.fun/embed2/discoverychannel.html"
-  },
-  {
-    "id": "t58",
-    "title": "DISCOVERY HYH",
-    "embed": "https://embed.saohgdasregions.fun/embed2/discoveryhyh.html"
-  },
-  {
-    "id": "t59",
-    "title": "ID INVESTIGATION",
-    "embed": "https://embed.saohgdasregions.fun/embed2/idinvestigation.html"
-  },
-  {
-    "id": "t60",
-    "title": "DISCOVERY A&E",
-    "embed": "https://embed.saohgdasregions.fun/embed2/discoveryaye.html"
-  },
-  {
-    "id": "t61",
-    "title": "RCN",
-    "embed": "https://embed.saohgdasregions.fun/embed2/rcn.html"
-  },
-  {
-    "id": "t62",
-    "title": "DISNEY CHANNEL",
-    "embed": "https://embed.saohgdasregions.fun/embed2/disneychannel.html"
-  },
-  {
-    "id": "t63",
-    "title": "TOONCAST",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tooncast.html"
-  },
-  {
-    "id": "t64",
-    "title": "TELEMUNDO PUERTO RICO",
-    "embed": "https://embed.saohgdasregions.fun/embed2/telemundopuertorico.html"
-  },
-  {
-    "id": "t66",
-    "title": "TNT NOVELAS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tntnovelas.html"
-  },
-  {
-    "id": "t67",
-    "title": "CARTOON NETWORK",
-    "embed": "https://embed.saohgdasregions.fun/embed2/cartoonnetwork.html"
-  },
-  {
-    "id": "t68",
-    "title": "FM HOT KIDS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/fmhotkids.html"
-  },
-  {
-    "id": "t69",
-    "title": "ANTENA 3",
-    "embed": "https://embed.saohgdasregions.fun/embed2/antena3.html"
-  }
-]
-  
+    ]
 }
