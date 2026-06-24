@@ -53,11 +53,27 @@
   "movies": [
     {
       "id": "m1",
-      "title": "Backrooms",
-      "tmdb_id": "1083381",
-      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/w8nrM9hCTxoeX96HmTQpC0HbkMY.jpg",
+      "title": "Proyecto Fin del Mundo",
+      "tmdb_id": "687163",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/cWpvRQcppLnXD0Kno4OZUzkA05R.jpg",
       "backdrop": null,
-      "embed": "https://vidoza.net/embed-cun9ky24qaes.html"
+      "embed": "https://streamtape.com/e/yDL7rB13R1f1MKY/"
+    },
+     {
+      "id": "m2",
+      "title": "Avatar: Fuego y ceniza",
+      "tmdb_id": "83533",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/vHtH4xdcTbaCVftGwaeGFHfOB3p.jpg",
+      "backdrop": null,
+      "embed": "https://streamtape.com/e/3pJRMg8QydSdKJW/"
+    },
+         {
+      "id": "m3",
+      "title": "Hoppers: Operación castor",
+      "tmdb_id": "1327819",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/7NRpCaksHX0FEsXCNITOvhq7cZ3.jpg",
+      "backdrop": null,
+      "embed": "https://streamtape.com/e/W1xzwkRYpGSp28/"
     }
   ],
 
@@ -98,6 +114,16 @@
           "ep": 6,
           "title": "Capítulo 6",
           "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
+        },
+              {
+          "ep": 7,
+          "title": "Capítulo 7",
+          "embed": "https://streamtape.com/e/AwVg8BpzD2TXp4o/"
+        },
+              {
+          "ep": 8,
+          "title": "Capítulo 8",
+          "embed": "https://streamtape.com/e/OYwWR2m2G7U7Pa/"
         }
       ]
     },
@@ -116,32 +142,55 @@
         {
           "ep": 2,
           "title": "Capítulo 2",
-          "embed": "https://streamtape.com/e/88zdAYZogYs6wo/" 
+          "embed": "https://streamtape.com/e/vla8kARvL8I4e9g/"
         },
           {
           "ep": 3,
           "title": "Capítulo 3",
-          "embed": "https://streamtape.com/e/g0O1O3oP2dTq1J0/" 
+          "embed": "https://streamtape.com/e/LaD2WplZlRHyR1/" 
         },
           {
           "ep": 4,
           "title": "Capítulo 4",
-          "embed": "https://streamtape.com/e/3woeGVoDdgTdQGp/"
+          "embed": "https://streamtape.com/e/Bb1LKd06DxSyazW/"
         },
         {
           "ep": 5,
           "title": "Capítulo 5",
-          "embed": "https://streamtape.com/e/XYWP1rD1yqFDbdj/"
+          "embed": "https://streamtape.com/e/Xba14g8ZLgTDlY4/"
         },
           {
           "ep": 6,
           "title": "Capítulo 6",
-          "embed": "https://streamtape.com/e/GWwGpeJ03xI1gAY/"
+          "embed": "https://streamtape.com/e/AMo7K76jWbFXAOk/" 
+        },
+             {
+          "ep": 7,
+          "title": "Capítulo 7",
+          "embed": "https://streamtape.com/e/qake7alzywsz321/" 
+        },
+                     {
+          "ep": 8,
+          "title": "Capítulo 8",
+          "embed": "https://streamtape.com/e/DqYxJ3JbBZHkMgy/"
+        },
+                     {
+          "ep": 9,
+          "title": "Capítulo 9",
+          "embed": "https://streamtape.com/e/D01wgeXO2KTky36/" 
+        },
+                     {
+          "ep": 10,
+          "title": "Capítulo 10",
+          "embed": "https://streamtape.com/e/rApKxYGMYDtb6be/" 
         }
       ]
     }
       
   ],
+
+
+
   "tv": [
 {
   "id": "t1",
@@ -152,12 +201,13 @@
   {
     "id": "t2",
     "title": "ESPN 2",
-    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html"
+    "embed": "https://embed.saohgdasregions.fun/embed2/espn2.html",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_bO1h4930LY8Dn0v_IBVHRbvawC6e4iVGAiWd6EaFw&s=10"
   },
   {
     "id": "t3",
     "title": "TYC SPORTS",
-    "embed": "https://embed.saohgdasregions.fun/embed2/tycsports.html"
+    "embed": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRCrlR7LXAgRSvAvDj5JYJwURwEsL7vFyJB6n_5QsLP-kg6ByCo84LQ&s"
   },
   {
     "id": "t4",
