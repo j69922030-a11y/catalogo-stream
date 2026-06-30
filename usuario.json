@@ -1,6 +1,3 @@
 {
-  "ws": "wss://refrigerator-lived-cabinet-filed.trycloudflare.com",
-  "update_url": "https://refrigerator-lived-cabinet-filed.trycloudflare.com/updates.json",
   "backend_url": "https://neurology-headway-catnap.ngrok-free.dev"
 }
-
