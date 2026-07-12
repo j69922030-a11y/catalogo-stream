@@ -1,3 +1,5 @@
 {
-  "backend_url": "https://bags-addressing-progressive-opt.trycloudflare.com"
+  "app_version": "1.0",
+  "backend_url": "https://bags-addressing-progressive-opt.trycloudflare.com",
+  "mensaje": "Servidor configurado correctamente"
 }
