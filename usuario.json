@@ -1,5 +1,5 @@
 {
   "app_version": "1.0",
-  "backend_url": "http://192.168.1.162:5000",
+  "backend_url": "https://coated-missing-treaty-went.trycloudflare.com",
   "mensaje": "Servidor configurado correctamente"
 }
