@@ -1,5 +1,5 @@
 {
   "app_version": "1.0",
-  "backend_url": "https://angels-experienced-oils-assure.trycloudflare.com",
+  "backend_url": "http://10.0.2.2:5000",
   "mensaje": "Servidor configurado correctamente"
 }
